@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="215px" preserveAspectRatio="none" style="width:962px;height:215px;background:#FFFFFF;" version="1.1" viewBox="0 0 962 215" width="962px" zoomAndPan="magnify"><defs/><g><!--MD5=[e320b41f2d43b11d6de1346cab4ea5fc]
+cluster View--><g id="cluster_View"><path d="M8.5,6 L48.5,6 A3.75,3.75 0 0 1 51,8.5 L58,28.2969 L127.5,28.2969 A2.5,2.5 0 0 1 130,30.7969 L130,90.5 A2.5,2.5 0 0 1 127.5,93 L8.5,93 A2.5,2.5 0 0 1 6,90.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="58" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="39" x="10" y="20.9951">View</text></g><!--MD5=[1f2cfc53d9d308f53762fd0fcbaa4873]
+cluster Controller--><g id="cluster_Controller"><path d="M245.5,6 L327.5,6 A3.75,3.75 0 0 1 330,8.5 L337,28.2969 L402.5,28.2969 A2.5,2.5 0 0 1 405,30.7969 L405,90.5 A2.5,2.5 0 0 1 402.5,93 L245.5,93 A2.5,2.5 0 0 1 243,90.5 L243,8.5 A2.5,2.5 0 0 1 245.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="243" x2="337" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="247" y="20.9951">Controller</text></g><!--MD5=[15636c1ca4a123c16a2a1a8e90aca7a9]
+cluster Model--><g id="cluster_Model"><path d="M503.5,6 L553.5,6 A3.75,3.75 0 0 1 556,8.5 L563,28.2969 L952.5,28.2969 A2.5,2.5 0 0 1 955,30.7969 L955,205.5 A2.5,2.5 0 0 1 952.5,208 L503.5,208 A2.5,2.5 0 0 1 501,205.5 L501,8.5 A2.5,2.5 0 0 1 503.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="501" x2="563" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="49" x="505" y="20.9951">Model</text></g><!--MD5=[20ca7e6c8113f98c65abb65f03328871]
+entity ViewActor--><g id="elem_ViewActor"><rect fill="#F1F1F1" height="36.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="92" x="22" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="32" y="63.9951">ViewActor</text></g><!--MD5=[f2898fd967e2b34ec69037492ffe853b]
+entity ControllerActor--><g id="elem_ControllerActor"><rect fill="#F1F1F1" height="36.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="129" x="259.5" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="269.5" y="63.9951">ControllerActor</text></g><!--MD5=[2862d95445e58fafbd48fc0049f4e041]
+entity SimulationManagerActor--><g id="elem_SimulationManagerActor"><rect fill="#F1F1F1" height="36.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="197" x="590.5" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="600.5" y="63.9951">SimulationManagerActor</text></g><!--MD5=[3f0c3023699e73ff33b4feed83cc7ba8]
+entity CelestialBodyActor--><g id="elem_CelestialBodyActor"><rect fill="#F1F1F1" height="36.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="606.5" y="156"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="616.5" y="178.9951">CelestialBodyActor</text></g><!--MD5=[b22a7abdd7be3f434730ad8a4b9e614e]
+link ViewActor to ControllerActor--><g id="link_ViewActor_ControllerActor"><path d="M114.06,59 C153.01,59 209.43,59 253.97,59 " fill="none" id="ViewActor-to-ControllerActor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="259.06,59,250.06,55,254.06,59,250.06,63,259.06,59" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="109" x="132.25" y="52.0669">Notify user input</text></g><!--MD5=[e53539cf883b3ec3010a258019c77c93]
+reverse link ViewActor to ControllerActor--><g id="link_ViewActor_ControllerActor"><path d="M119.24,71.9 C133.11,74.84 148.17,77.52 162.25,79 C194.19,82.35 229.6,78.8 259.13,73.81 " fill="none" id="ViewActor-backto-ControllerActor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="114.19,70.81,122.1405,76.6229,119.0769,71.8674,123.8324,68.8038,114.19,70.81" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="47" x="163.25" y="75.0669">Update</text></g><!--MD5=[fcfd547fb1804b2709005a2a0257df54]
+link ControllerActor to SimulationManagerActor--><g id="link_ControllerActor_SimulationManagerActor"><path d="M388.83,59 C443.23,59 521.94,59 585.11,59 " fill="none" id="ControllerActor-to-SimulationManagerActor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="590.4,59,581.4,55,585.4,59,581.4,63,590.4,59" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="165" x="407" y="52.0669">Request Simulation State</text></g><!--MD5=[7c19921ecdfb15f815d3d4123ec30aa6]
+link SimulationManagerActor to CelestialBodyActor--><g id="link_SimulationManagerActor_CelestialBodyActor"><path d="M590.49,77.04 C574.19,84.27 559.28,94.51 549,109 C529.97,135.83 562.91,151.78 601.01,161.05 " fill="none" id="SimulationManagerActor-to-CelestialBodyActor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="606.17,162.26,598.305,156.332,601.299,161.1315,596.4994,164.1255,606.17,162.26" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="179" x="550" y="122.0669">Update celestial body state</text></g><!--MD5=[1d7f2c2cbb3fa4df7520d39b9ac4ed6a]
+link CelestialBodyActor to SimulationManagerActor--><g id="link_CelestialBodyActor_SimulationManagerActor"><path d="M709.69,155.88 C719.2,148.02 728.89,137.81 734,126 C741.09,109.59 729.64,92.98 716.51,80.52 " fill="none" id="CelestialBodyActor-to-SimulationManagerActor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="712.78,77.12,716.7384,86.1384,716.4758,80.4876,722.1266,80.2251,712.78,77.12" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="164" x="738" y="122.0669">Send celestial body state</text></g><!--MD5=[b7012236a8ec37887ecea65e981f7bfe]
+@startuml
+
+package View{
+    rectangle ViewActor
+}
+
+package Controller{
+    rectangle ControllerActor
+}
+
+package Model{
+    rectangle SimulationManagerActor
+    rectangle CelestialBodyActor
+}
+
+ViewActor -right-> ControllerActor: Notify user input
+ControllerActor -left-> ViewActor: Update
+ControllerActor -right-> SimulationManagerActor: Request Simulation State
+SimulationManagerActor - -> CelestialBodyActor: Update celestial body state
+CelestialBodyActor - -> SimulationManagerActor: Send celestial body state
+
+@enduml
+
+PlantUML version 1.2022.12(Sun Oct 23 20:12:26 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
