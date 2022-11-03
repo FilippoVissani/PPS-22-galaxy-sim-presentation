@@ -1,5 +1,14 @@
 {
-  "dependencies": {
-    "@marp-team/marp-cli": "^2.2.0"
+  "scripts": {
+    "build": "rimraf public && npm run -s og-image && npm run -s deck",
+    "deck": "marp --no-stdin PITCHME.md -o public/index.html && ncp assets public/assets",
+    "og-image": "marp --no-stdin PITCHME.md -o public/og-image.jpg",
+    "start": "marp -ps .",
+    "vercel-build": "npm i puppeteer --no-save && MARP_USER=root CHROME_PATH=$(node -e \"console.log(require('puppeteer').executablePath())\") npm run build"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.2.0",
+    "ncp": "^2.0.0",
+    "rimraf": "^3.0.2"
   }
 }
