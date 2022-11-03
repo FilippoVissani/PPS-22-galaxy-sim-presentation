@@ -63,6 +63,6 @@ ___
 
 ___
 
-### **GUI: statistiche**
+### **GUI: Statistiche**
 
 ![Architettura bg 60%](./assets/gui-stats.png)
