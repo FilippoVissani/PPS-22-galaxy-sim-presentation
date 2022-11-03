@@ -50,18 +50,18 @@ ___
 
 ___
 
-# **GUI: Info**
+### **GUI: Info**
 
 ![Architettura bg 60%](./images/gui-info.png)
 
 ___
 
-# **GUI: Log**
+### **GUI: Log**
 
-![Architettura bg 55%](./images/gui-log.png)
+![Architettura bg 60%](./images/gui-log.png)
 
 ___
 
-# **GUI: statistiche**
+### **GUI: statistiche**
 
-![Architettura bg 55%](./images/gui-stats.png)
+![Architettura bg 60%](./images/gui-stats.png)
