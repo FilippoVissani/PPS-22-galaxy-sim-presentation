@@ -2,6 +2,7 @@
 marp: true
 theme: gaia
 backgroundColor: white
+paginate: true
 ---
 
 # **Introduzione**
