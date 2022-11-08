@@ -11,7 +11,7 @@ paginate: true
 
 # **Requisiti**
 
-___
+---
 
 # **Architettura**
 
@@ -45,23 +45,23 @@ ___
 
 # **Ciclo di vita**
 
-___
+---
 
 # **Fisica**
 
-___
+---
 
 ### **GUI: Info**
 
 ![Architettura bg 60%](./assets/gui-info.png)
 
-___
+---
 
 ### **GUI: Log**
 
 ![Architettura bg 60%](./assets/gui-log.png)
 
-___
+---
 
 ### **GUI: Statistiche**
 
