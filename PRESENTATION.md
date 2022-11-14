@@ -51,7 +51,7 @@ paginate: true
 
 ### Dynamics 
 - PhysicalEntity: the subject of dynamics laws, with relevant physical attributes;
-- ???
+- GravitationLaws: logic to calculate gravitational force of objects, their speed and their new position.
 
 ### Collisions
 - Intersection: logic to detect if two bodies are colliding or not, based on bounding box shapes;
