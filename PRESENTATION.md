@@ -3,80 +3,90 @@ marp: true
 theme: gaia
 backgroundColor: white
 paginate: true
+style: |
+  h1 {
+    color: #0288d1;
+    font-size: 50px;
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
 ---
-
-# **Introduzione**
-
----
-
-# **Requisiti**
-
----
-
-# **Architettura**
-
-![Architettura bg 90%](./assets/mvc_actor_architecture.svg)
-
----
-
-### **Attori**
-
-![Architettura bg 80%](./assets/celestial_body_actor_class_diagram.svg)
+<!-- _class: h1 -->
+# Introduzione
 
 ---
 
-### **Attori: ciclo di vita**
-
-![Architettura bg 45%](./assets/actors_lifecycle_sequence.svg)
+# Requisiti
 
 ---
 
-### **Attori: loop della simulazione**
+# Architettura
 
-![Architettura bg 55%](./assets/actors_simulation_loop_sequence.svg)
-
----
-
-### **Attori: aggiornamento della View**
-
-![Architettura bg 55%](./assets/actors_view_simulation_update_sequence.svg)
+![Architettura w:30cm](./assets/mvc_actor_architecture.svg)
 
 ---
 
-# **Ciclo di vita**
+# Attori
+
+![Attori w:30cm](./assets/celestial_body_actor_class_diagram.svg)
 
 ---
 
-## **Fisica**
+# Attori: ciclo di vita
 
-### Dynamics 
+![Attori: ciclo di vita w:18cm](./assets/actors_lifecycle_sequence.svg)
+
+---
+
+# Attori: loop della simulazione
+
+![Attori: loop della simulazione w:22cm](./assets/actors_simulation_loop_sequence.svg)
+
+---
+
+# Attori: aggiornamento della View
+
+![Attori: aggiornamento della View w:20cm](./assets/actors_view_simulation_update_sequence.svg)
+
+---
+
+# Ciclo di vita
+
+---
+
+# Fisica: dynamics
+
 - PhysicalEntity: the subject of dynamics laws, with relevant physical attributes;
 - GravitationLaws: logic to calculate gravitational force of objects, their speed and their new position.
 
-### Collisions
+---
+# Fisica: collisions
+
 - Intersection: logic to detect if two bodies are colliding or not, based on bounding box shapes;
 - Impact: logic to express the result of the collision;
 
 ---
-## **Fisica**
+# Fisica: rigidbody
 
-### Rigidbody
 - Reunites common concepts of physics: a physical entity with a bounding box;
 
 ---
 
-### **GUI: Info**
+# GUI: Info
 
-![Architettura bg 60%](./assets/gui-info.png)
-
----
-
-### **GUI: Log**
-
-![Architettura bg 60%](./assets/gui-log.png)
+![GUI: Info w:24cm](./assets/gui-info.png)
 
 ---
 
-### **GUI: Statistiche**
+# GUI: Log
 
-![Architettura bg 60%](./assets/gui-stats.png)
+![GUI: Log w:24cm](./assets/gui-log.png)
+
+---
+
+# GUI: Statistiche
+
+![GUI: Statistiche w:24cm](./assets/gui-stats.png)
