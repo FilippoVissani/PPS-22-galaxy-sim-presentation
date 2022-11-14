@@ -49,6 +49,17 @@ paginate: true
 
 # **Fisica**
 
+## Dynamics
+- PhysicalEntity: the subject of dynamics laws, with relevant physical attributes;
+- ???
+
+## Collisions
+- Intersection: logic to detect if two bodies are colliding or not, based on bounding box shapes;
+- Impact: logic to express the result of the collision;
+
+## Rigidbody
+- Reunites common concepts of physics: a physical entity with a bounding box;
+
 ---
 
 ### **GUI: Info**
