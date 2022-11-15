@@ -32,10 +32,17 @@ style: |
 ---
 # Introduzione
 
+Galaxy Simulator permette di simulare il comportamento dei corpi celesti presenti all'interno di una galassia
+
 ---
 
 # Requisiti
 
+- L'andamento della simulazione è scandito da un tempo virtuale
+- I corpi celesti hanno un'orbita
+- Sono presenti diversi tipi di corpi celesti
+- Le stelle hanno un ciclo di vita
+- La collisione tra due corpi ne modifica le caratteristiche
 ---
 
 # Architettura
