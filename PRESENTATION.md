@@ -52,7 +52,23 @@ Galaxy Simulator permette di simulare il comportamento dei corpi celesti present
 
 ---
 
-# Attori
+# Simulazione
+
+![Simulazione w:14cm](./assets/simulation_class_diagram.svg)
+
+---
+
+# Attori: introduzione
+
+- CelestialBodyActor: gestisce un corpo celeste
+- SimulationManagerActor: gestisce la simulazione
+- EventRecorderActor: registra gli eventi
+- ControllerActor: gestisce la parte di Controller
+- ViewActor: gestisce la View della simulazione
+
+---
+
+# Attori: design
 
 ![Attori w:30cm](./assets/celestial_body_actor_class_diagram.svg)
 
