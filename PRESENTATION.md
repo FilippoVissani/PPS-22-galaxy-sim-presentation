@@ -1,36 +1,33 @@
 ---
 marp: true
 theme: gaia
-backgroundColor: #3b4252
+backgroundColor: #2e3440
 style: |
   h1 {
     color: #eceff4;
     font-size: 40px;
     text-align: center;
     border-radius: 10px;
-    background-color: #a3be8c;
-    box-shadow: 5px 5px #2e3440;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #2e3440;
+    background-color: #4c566a;
   }
 
   p {
     color: #2e3440;
     text-align: center;
-    border: 5px solid #eceff4;
+    border: 2px solid #eceff4;
     border-radius: 10px;
     background-color: white;
-    box-shadow: 5px 5px #2e3440;
   }
 
   ul {
     color: #2e3440;
-    border: 5px solid #eceff4;
+    border: 2px solid #eceff4;
     border-radius: 10px;
     background-color: #eceff4;
-    box-shadow: 5px 5px #2e3440;
   }
+
 ---
+
 # Introduzione
 
 Galaxy Simulator permette di simulare il comportamento dei corpi celesti presenti all'interno di una galassia
