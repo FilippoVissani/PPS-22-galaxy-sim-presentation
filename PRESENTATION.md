@@ -15,6 +15,7 @@ style: |
   }
 
   p {
+    color: #2e3440;
     text-align: center;
     border: 5px solid #eceff4;
     border-radius: 10px;
