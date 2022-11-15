@@ -90,6 +90,19 @@ Galaxy Simulator permette di simulare il comportamento dei corpi celesti present
 
 ---
 
+# Identificazione delle entità
+Massa e Temperatura definiscono il tipo di entità:
+
+- **Asteroide**: Temp <= 50
+- **Pianeta**: 50 < Temp <= 100
+- **Nube Interstellare**: 100 < Temp <= 1000
+- **Massive star**: (Temp > 1000) && (0 <= Massa < 1e10) 
+- **Red super giant**: (Temp > 1000) && (1e10 <= Massa < 1e20) 
+- **Supernova**: (Temp > 1000) && (1e20 <= Massa < 1e30) 
+- **Black hole**: (Temp > 1000) && (Massa >= 1e30) 
+
+---
+
 # Ciclo di vita
 ![Ciclo di vita w:15cm](./assets/lifecycle.svg)
 
