@@ -1,17 +1,33 @@
 ---
 marp: true
 theme: gaia
-backgroundColor: white
-paginate: true
+backgroundColor: #3b4252
 style: |
   h1 {
-    color: #0288d1;
-    font-size: 50px;
+    color: #eceff4;
+    font-size: 40px;
     text-align: center;
+    border-radius: 10px;
+    background-color: #a3be8c;
+    box-shadow: 5px 5px #2e3440;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #2e3440;
   }
 
   p {
     text-align: center;
+    border: 5px solid #eceff4;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 5px 5px #2e3440;
+  }
+
+  ul {
+    color: #2e3440;
+    border: 5px solid #eceff4;
+    border-radius: 10px;
+    background-color: #eceff4;
+    box-shadow: 5px 5px #2e3440;
   }
 ---
 <!-- _class: h1 -->
@@ -37,7 +53,7 @@ style: |
 
 # Attori: ciclo di vita
 
-![Attori: ciclo di vita w:18cm](./assets/actors_lifecycle_sequence.svg)
+![Attori: ciclo di vita w:17.5cm](./assets/actors_lifecycle_sequence.svg)
 
 ---
 
