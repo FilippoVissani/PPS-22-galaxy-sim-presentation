@@ -94,6 +94,7 @@ Galaxy Simulator permette di simulare il comportamento dei corpi celesti present
 ---
 
 # Ciclo di vita
+![Ciclo di vita w:15cm](./assets/lifecycle.svg)
 
 ---
 
