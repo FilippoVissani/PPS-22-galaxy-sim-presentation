@@ -30,7 +30,6 @@ style: |
     box-shadow: 5px 5px #2e3440;
   }
 ---
-<!-- _class: h1 -->
 # Introduzione
 
 ---
