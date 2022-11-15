@@ -38,6 +38,7 @@ Galaxy Simulator permette di simulare il comportamento dei corpi celesti present
 
 # Requisiti
 
+- Rappresentazione 2D della simulazione
 - L'andamento della simulazione è scandito da un tempo virtuale
 - I corpi celesti hanno un'orbita
 - Sono presenti diversi tipi di corpi celesti
