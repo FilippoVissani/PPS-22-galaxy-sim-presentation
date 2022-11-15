@@ -46,7 +46,7 @@ Galaxy Simulator permette di simulare il comportamento dei corpi celesti present
 - La collisione tra due corpi ne modifica le caratteristiche
 ---
 
-# Architettura
+# Architettura del sistema
 
 ![Architettura w:30cm](./assets/mvc_actor_architecture.svg)
 
