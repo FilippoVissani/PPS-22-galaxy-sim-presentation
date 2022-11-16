@@ -116,13 +116,13 @@ Massa e Temperatura definiscono il tipo di entità:
 ---
 # Fisica: collisions
 
-- Intersection: logic to detect if two bodies are colliding or not, based on bounding box shapes;
-- Impact: logic to express the result of the collision;
+- Intersection: logica per controllare se due corpi stanno collidendo, basandosi sull' intersezione di bounding boxes;
+- Impact: logica per esprimere il risultato di una collisione;
 
 ---
 # Fisica: rigidbody
 
-- Reunites common concepts of physics: a physical entity with a bounding box;
+- Riunisce concetti della fisica: una PhysicalEntity con CollisionBox;
 
 ---
 
