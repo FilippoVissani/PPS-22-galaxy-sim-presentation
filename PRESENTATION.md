@@ -72,6 +72,12 @@ Galaxy Simulator permette di simulare il comportamento dei corpi celesti present
 
 ---
 
+# Attori: design
+
+![Attori w:20cm](./assets/actors_class_diagram.svg)
+
+---
+
 # Attori: ciclo di vita
 
 ![Attori: ciclo di vita w:17.5cm](./assets/actors_lifecycle_sequence.svg)
