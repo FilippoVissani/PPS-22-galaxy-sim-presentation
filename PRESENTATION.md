@@ -49,7 +49,7 @@ Galaxy Simulator è un simulatore del moto dei corpi all’interno di una galass
 - Visualizzazione del movimento dei corpi celesti
 - Visualizzazione delle informazioni dei corpi presenti durante la simulazione
 - Visualizzazione di statistiche generali sulla simulazione
-- Modifica delle caratteristiche di un corpo con il passare del tempo e con le collisioni
+- Osservazione della variazione delle caratteristiche di un corpo con il passare del tempo e con le collisioni
 ---
 
 # Architettura del sistema
