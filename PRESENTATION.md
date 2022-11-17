@@ -38,18 +38,18 @@ style: |
 
 # Introduzione
 
-Galaxy Simulator permette di simulare il comportamento dei corpi celesti presenti all'interno di una galassia
+Galaxy Simulator è un simulatore del moto dei corpi all’interno di una galassia. Permette di vedere l’interazione che c’è tra varie tipologie di corpi celesti mentre orbitano attorno a un corpo principale posto al centro della galassia
 
 ---
 
-# Requisiti
+# Funzionalità di base
 
 - Rappresentazione 2D della simulazione
-- L'andamento della simulazione è scandito da un tempo virtuale
-- I corpi celesti hanno un'orbita
-- Sono presenti diversi tipi di corpi celesti
-- Le stelle hanno un ciclo di vita
-- La collisione tra due corpi ne modifica le caratteristiche
+- Presenza di diversi tipi di corpi celesti
+- Visualizzazione del movimento dei corpi celesti
+- Visualizzazione delle informazioni dei corpi presenti durante la simulazione
+- Visualizzazione di statistiche generali sulla simulazione
+- Modifica delle caratteristiche di un corpo con il passare del tempo e con le collisioni
 ---
 
 # Architettura del sistema
