@@ -1,36 +1,37 @@
 ---
 marp: true
 theme: gaia
-backgroundColor: #2e3440
+backgroundColor: #023047
 style: |
   h1 {
-    color: #eceff4;
+    color: #023047;
     font-size: 40px;
     text-align: center;
+    border: 4px solid #fb8500;
     border-radius: 10px;
-    background-color: #4c566a;
+    background-color: #ffb703;
   }
 
   p {
-    color: #2e3440;
+    color: black;
     text-align: center;
-    border: 2px solid #eceff4;
+    border: 4px solid #219ebc;
     border-radius: 10px;
     background-color: white;
   }
 
   ul {
-    color: #2e3440;
-    border: 2px solid #eceff4;
+    color: black;
+    border: 4px solid #219ebc;
     border-radius: 10px;
-    background-color: #eceff4;
+    background-color: white;
   }
 
   ol {
-    color: #2e3440;
-    border: 2px solid #eceff4;
+    color: black;
+    border: 4px solid #219ebc;
     border-radius: 10px;
-    background-color: #eceff4;
+    background-color: white;
   }
 
 ---
