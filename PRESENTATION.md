@@ -134,8 +134,8 @@ Massa e Temperatura definiscono il tipo di entità:
 
 # Fisica: dynamics
 
-- PhysicalEntity: the subject of dynamics laws, with relevant physical attributes;
-- GravitationLaws: logic to calculate gravitational force of objects, their speed and their new position.
+- PhysicalEntity: il soggetto su cui vengono applicate le leggi gravitazionali, con i relativi attributi fisici;
+- GravitationLaws: la logica per calcolare le formule gravitazionali, tra cui attrazione gravitazionale, velocità e nuova posizione.
 
 ---
 # Fisica: collisions
