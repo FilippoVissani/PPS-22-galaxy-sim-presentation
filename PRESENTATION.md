@@ -38,7 +38,7 @@ style: |
 
 # Introduzione
 
-Galaxy Simulator è un simulatore del moto dei corpi all’interno di una galassia. Permette di vedere l’interazione che c’è tra varie tipologie di corpi celesti mentre orbitano attorno a un corpo principale posto al centro della galassia
+Galaxy Simulator è un simulatore del moto dei corpi all’interno di una galassia. Permette di vedere l’interazione che c’è tra varie tipologie di corpi celesti mentre orbitano attorno a un corpo principale posto al centro della galassia.
 
 ---
 
