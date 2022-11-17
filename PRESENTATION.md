@@ -26,6 +26,13 @@ style: |
     background-color: #eceff4;
   }
 
+  ol {
+    color: #2e3440;
+    border: 2px solid #eceff4;
+    border-radius: 10px;
+    background-color: #eceff4;
+  }
+
 ---
 
 # Introduzione
@@ -53,6 +60,16 @@ Galaxy Simulator permette di simulare il comportamento dei corpi celesti present
 # Simulazione: design
 
 ![Simulazione w:14cm](./assets/simulation_class_diagram.svg)
+
+---
+
+# Simulazione: loop
+
+Step eseguiti durante un'iterazione:
+
+1. Aggiornamento del tipo dei corpi
+2. Aggiornamento della posizione dei corpi
+3. Risoluzione delle collisioni
 
 ---
 
