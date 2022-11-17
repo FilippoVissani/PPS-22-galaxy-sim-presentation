@@ -50,7 +50,7 @@ Galaxy Simulator permette di simulare il comportamento dei corpi celesti present
 
 ---
 
-# Simulazione
+# Simulazione: design
 
 ![Simulazione w:14cm](./assets/simulation_class_diagram.svg)
 
