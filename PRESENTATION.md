@@ -144,6 +144,10 @@ Massa e Temperatura definiscono il tipo di entità:
 - Impact: logica per esprimere il risultato di una collisione;
 
 ---
+# Fisica: collisions (extract)
+![Collisions w: 25cm](./assets/collisions.svg)
+
+---
 # Fisica: rigidbody
 
 - Riunisce concetti della fisica: una PhysicalEntity con CollisionBox;
