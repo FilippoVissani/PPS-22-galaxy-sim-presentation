@@ -8,7 +8,7 @@ style: |
     font-size: 40px;
     text-align: center;
     border: 4px solid #fb8500;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: #ffb703;
   }
 
@@ -16,21 +16,21 @@ style: |
     color: black;
     text-align: center;
     border: 4px solid #219ebc;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: white;
   }
 
   ul {
     color: black;
     border: 4px solid #219ebc;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: white;
   }
 
   ol {
     color: black;
     border: 4px solid #219ebc;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: white;
   }
 
