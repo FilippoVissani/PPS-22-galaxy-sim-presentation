@@ -138,16 +138,25 @@ Massa e Temperatura definiscono il tipo di entità:
 - GravitationLaws: la logica per calcolare le formule gravitazionali, tra cui attrazione gravitazionale, velocità e nuova posizione.
 
 ---
+
 # Fisica: collisions
 
 - Intersection: logica per controllare se due corpi stanno collidendo, basandosi sull' intersezione di bounding boxes;
 - Impact: logica per esprimere il risultato di una collisione;
 
 ---
-# Fisica: collisions (extract)
-![Collisions w: 25cm](./assets/collisions.svg)
+
+# Fisica: collisions (organization)
+
+![Collisions w:30cm h:10cm](./assets/collisions_architecture.svg)
 
 ---
+
+# Fisica: collisions (extract)
+![Collisions](./assets/collisions.svg)
+
+---
+
 # Fisica: rigidbody
 
 - Riunisce concetti della fisica: una PhysicalEntity con CollisionBox;

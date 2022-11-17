@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="151px" preserveAspectRatio="none" style="width:810px;height:151px;background:#FFFFFF;" version="1.1" viewBox="0 0 810 151" width="810px" zoomAndPan="magnify"><defs/><g><!--MD5=[18a4d359d6e3b2d2ceb417b0dda5bd44]
+entity collisions--><g id="elem_collisions"><path d="M364,6 L442,6 A3.75,3.75 0 0 1 444.5,8.5 L451.5,28.2969 L466,28.2969 A2.5,2.5 0 0 1 468.5,30.7969 L468.5,42.7969 A2.5,2.5 0 0 1 466,45.2969 L364,45.2969 A2.5,2.5 0 0 1 361.5,42.7969 L361.5,8.5 A2.5,2.5 0 0 1 364,6 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="361.5" x2="451.5" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="371.5" y="21.9951">collisions</text></g><!--MD5=[1607dfc375464f223680219f16f5852e]
+entity intersection--><g id="elem_intersection"><path d="M8.5,105 L109.5,105 A3.75,3.75 0 0 1 112,107.5 L119,127.2969 L133.5,127.2969 A2.5,2.5 0 0 1 136,129.7969 L136,141.7969 A2.5,2.5 0 0 1 133.5,144.2969 L8.5,144.2969 A2.5,2.5 0 0 1 6,141.7969 L6,107.5 A2.5,2.5 0 0 1 8.5,105 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="6" x2="119" y1="127.2969" y2="127.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="16" y="120.9951">intersection</text></g><!--MD5=[52dd840081d9363004f430a5d4d49deb]
+entity impact--><g id="elem_impact"><path d="M174,105 L238,105 A3.75,3.75 0 0 1 240.5,107.5 L247.5,127.2969 L262,127.2969 A2.5,2.5 0 0 1 264.5,129.7969 L264.5,141.7969 A2.5,2.5 0 0 1 262,144.2969 L174,144.2969 A2.5,2.5 0 0 1 171.5,141.7969 L171.5,107.5 A2.5,2.5 0 0 1 174,105 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="171.5" x2="247.5" y1="127.2969" y2="127.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="181.5" y="120.9951">impact</text></g><!--MD5=[64b339643fc165ce66325f4b9f2bc1c1]
+entity collision--><g id="elem_collision"><path d="M302.5,105 L373.5,105 A3.75,3.75 0 0 1 376,107.5 L383,127.2969 L397.5,127.2969 A2.5,2.5 0 0 1 400,129.7969 L400,141.7969 A2.5,2.5 0 0 1 397.5,144.2969 L302.5,144.2969 A2.5,2.5 0 0 1 300,141.7969 L300,107.5 A2.5,2.5 0 0 1 302.5,105 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="300" x2="383" y1="127.2969" y2="127.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="310" y="120.9951">collision</text></g><!--MD5=[0795f1dfc0b5f1f3011844ef80beb14f]
+entity syntax--><g id="elem_syntax"><path d="M438,105 L498,105 A3.75,3.75 0 0 1 500.5,107.5 L507.5,127.2969 L522,127.2969 A2.5,2.5 0 0 1 524.5,129.7969 L524.5,141.7969 A2.5,2.5 0 0 1 522,144.2969 L438,144.2969 A2.5,2.5 0 0 1 435.5,141.7969 L435.5,107.5 A2.5,2.5 0 0 1 438,105 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="435.5" x2="507.5" y1="127.2969" y2="127.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="445.5" y="120.9951">syntax</text></g><!--MD5=[8a59c47ba1a55e73da8adb26f58490ce]
+entity monads--><g id="elem_monads"><path d="M562.5,105 L631.5,105 A3.75,3.75 0 0 1 634,107.5 L641,127.2969 L655.5,127.2969 A2.5,2.5 0 0 1 658,129.7969 L658,141.7969 A2.5,2.5 0 0 1 655.5,144.2969 L562.5,144.2969 A2.5,2.5 0 0 1 560,141.7969 L560,107.5 A2.5,2.5 0 0 1 562.5,105 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="560" x2="641" y1="127.2969" y2="127.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="570" y="120.9951">monads</text></g><!--MD5=[3c35039b0be7f783ba68c4765f26a91b]
+entity instances--><g id="elem_instances"><path d="M695.5,105 L776.5,105 A3.75,3.75 0 0 1 779,107.5 L786,127.2969 L800.5,127.2969 A2.5,2.5 0 0 1 803,129.7969 L803,141.7969 A2.5,2.5 0 0 1 800.5,144.2969 L695.5,144.2969 A2.5,2.5 0 0 1 693,141.7969 L693,107.5 A2.5,2.5 0 0 1 695.5,105 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="693" x2="786" y1="127.2969" y2="127.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="703" y="120.9951">instances</text></g><!--MD5=[0d32a45d166f5ab6f9995b51ea39748a]
+link collisions to instances--><g id="link_collisions_instances"><path d="M468.502,42.085 C528.528,59.5698 625.654,87.8617 688.155,106.0677 " fill="none" id="collisions-to-instances" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="692.968,107.4697,685.4461,101.1119,688.1676,106.0711,683.2084,108.7926,692.968,107.4697" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[eadf8aa61a8560952b3e1166a7abd9b3]
+link collisions to intersection--><g id="link_collisions_intersection"><path d="M361.25,41.656 C301.948,58.378 206.298,85.349 141.138,103.7228 " fill="none" id="collisions-to-intersection" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="136.108,105.141,145.8554,106.5507,140.9207,103.7852,143.6862,98.8504,136.108,105.141" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3ea2bc55905d4d325e23194a2cb3e0e1]
+link collisions to impact--><g id="link_collisions_impact"><path d="M377.016,45.2026 C343.631,61.641 295.102,85.5358 260.448,102.5991 " fill="none" id="collisions-to-impact" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="255.867,104.8548,265.7083,104.4679,260.3528,102.6462,262.1745,97.2907,255.867,104.8548" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[75490660225c0f22c71e3d3e3a9a1e01]
+link collisions to monads--><g id="link_collisions_monads"><path d="M452.405,45.2026 C485.282,61.641 533.072,85.5358 567.198,102.5991 " fill="none" id="collisions-to-monads" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="571.71,104.8548,565.4485,97.2526,567.2377,102.619,561.8713,104.4082,571.71,104.8548" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[71fd12730e957e34c3904c761cc65284]
+link collisions to collision--><g id="link_collisions_collision"><path d="M402.467,45.2026 C391.857,61.0372 376.61,83.7904 365.284,100.6917 " fill="none" id="collisions-to-collision" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="362.494,104.8548,370.8275,99.6057,365.2778,100.7014,364.1821,95.1517,362.494,104.8548" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c1fdaca0d6b7570e24c8eb28ed2c2029]
+link collisions to syntax--><g id="link_collisions_syntax"><path d="M427.533,45.2026 C438.143,61.0372 453.39,83.7904 464.716,100.6917 " fill="none" id="collisions-to-syntax" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="467.506,104.8548,465.8179,95.1517,464.7222,100.7014,459.1725,99.6057,467.506,104.8548" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e3f332dd293e4f6abdc1e7ed16833944]
+@startuml
+package collisions
+package intersection
+package impact
+package collision
+package syntax
+package monads
+package instances
+
+collisions - -> instances
+collisions - -> intersection
+collisions - -> impact
+collisions - -> monads
+collisions - -> collision
+collisions - -> syntax
+@enduml
+
+PlantUML version 1.2022.13beta8(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
